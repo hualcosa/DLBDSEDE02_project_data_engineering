@@ -26,4 +26,8 @@
     cd into the spark-container folder and run the following command:<br>
     `spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.0 ./apps/stream_parser.py > sample-output.txt`
 
-6. You can now observe the stream being appended in the file sample-output.txt. Have fun :-) 
+6. You can now observe the stream being appended in the file sample-output.txt. Have fun :-)
+
+# DEMO
+[<img src="https://i.ytimg.com/vi/zhh3B8zDkUI/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=zhh3B8zDkUI "Demo video")
+
